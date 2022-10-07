@@ -4,3 +4,7 @@ in nodeJS to get the command line value we have differnt `global variable` name 
 
 `argv` --> have two default value .. 1) path 2) file path 3) 3rd onward your commad line arguments value
 you have to run line node app.js 'dhananjay' and clg(process.argv[2])
+
+
+
+# HERE ONWARDS NOTES ADDED IN DOCS
